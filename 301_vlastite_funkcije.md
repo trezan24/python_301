@@ -56,4 +56,4 @@ prikazuje što ovo znači u praksi:
 Kako bismo mogli definirati funkciju koja zbraja više od jednog broja
 odnosno koja oponaša već postojeću funkciju `sum`?
 
-def sum(numbers): total = 0 for n in numbers: total += n return total
+````def sum(numbers): total = 0 for n in numbers: total += n return total````
